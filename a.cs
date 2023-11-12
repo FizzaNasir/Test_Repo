@@ -22,6 +22,7 @@ class Program
         
         else{
             Console.WriteLine("bye");
+            Console.WriteLine("bye2");
         }
     }
 }
