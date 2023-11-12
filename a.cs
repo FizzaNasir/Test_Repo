@@ -12,6 +12,7 @@ class Program
             Console.WriteLine($"Nice to meet you, {name}!");
         }
         else if(true){
+            Console.WriteLine("You didn't enter a name. Goodbye!");
             Console.WriteLine("Bye");
         }
         else
