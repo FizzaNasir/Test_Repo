@@ -12,7 +12,7 @@ class Program
             Console.WriteLine($"Nice to meet you, {name}!");
         }
         else if(true){
-            Console.WriteLine("Hi");
+            Console.WriteLine("Bye");
         }
         else
         {
