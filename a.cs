@@ -15,5 +15,9 @@ class Program
         {
             Console.WriteLine("You didn't enter a name. Goodbye!");
         }
+        
+        else{
+            Console.WriteLine("bye");
+        }
     }
 }
